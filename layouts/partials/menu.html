@@ -102,7 +102,7 @@
         {{if eq .UniqueID $currentNode.UniqueID}}active{{end}}
         {{if .Params.alwaysopen}}parent{{end}}
         ">
-      <a href="{{.RelPermalink}}">
+      <a href="{{.RelPermalink}}" aria-label="Go to {{.Title}}">
           {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}
           {{ if $showvisitedlinks}}
             <i class="fas fa-check read-icon"></i>
