@@ -1,3 +1,21 @@
+# Cloud Foundry Certified Developer Preparation - Course developer template for course creation
+
+https://cfcd-prep.cloudfoundry.org
+
+This template is based off of the Hugo Learn theme (https://themes.gohugo.io/hugo-theme-learn/, https://github.com/matcornic/hugo-theme-learn)
+
+## Updates
+
+Please feel free to open pull requests for updates to the course material. When opening pull requests, please be sure:
+
+* New content is scoped appropriately to the exam. Exam content aligns with the [domains and competencies](https://training.linuxfoundation.org/certification/cloud-foundry-certified-developer-cfcd/#domains).
+* Content provides a functional review of the topics covered. The exam consists of performance based challenges and this exam prep content must not mirror the exam too closely. 
+
+If you have questions on the above, please open a Github issue for discussion.
+
+#
+
+
 # Hugo Learn Theme
 
 This repository contains a theme for [Hugo](https://gohugo.io/), based on great [Grav Learn Theme](https://learn.getgrav.org/).
